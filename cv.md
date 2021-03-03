@@ -11,12 +11,12 @@
 - CSS,
 - JC,
 - PHP
-  on [HTMLacadimy]
+  on [HTMLacadimy](https://htmlacademy.ru/study)
 
 **Education:**
 
 - BSTU, engineer energy manager (2005-2010),
 - BSEU, economict (2013-2016),
-- [RS School]
+- [RS School](https://rs.school/js/)
 
-**Knowledge of English:** Pre-Intermediate,
+**Knowledge of English:** Pre-Intermediate, study in [2English](https://2english.by/)
